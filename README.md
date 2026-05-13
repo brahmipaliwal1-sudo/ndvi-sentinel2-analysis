@@ -40,4 +40,4 @@ Through this project, I gained exposure to:
 - Geospatial data visualization using Google Earth Engine
 
 ## Note
-This project was completed as part of an internship screening exercise and focuses on exploratory geospatial analysis and learning.
+This project was completed as part of an internship screening exercise and focuses on exploratory geospatial analysis and learning. This project was implemented using Google Earth Engine (GEE), and relevant implementation details/code are included in the project report.
