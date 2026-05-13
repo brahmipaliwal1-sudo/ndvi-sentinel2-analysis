@@ -23,7 +23,13 @@ The workflow involved:
 - Sentinel-2 Satellite Imagery
 
 ## Sample Output
-(Add screenshots of your NDVI output here)
+<img width="1365" height="767" alt="Screenshot 2026-05-11 160347" src="https://github.com/user-attachments/assets/8dd610c2-c941-4c8c-a368-76c8a5e6238a" />
+
+<img width="423" height="422" alt="Screenshot 2026-05-11 154910" src="https://github.com/user-attachments/assets/5c786144-84a8-455d-85f0-fc0ef9cf1833" />
+
+<img width="423" height="392" alt="Screenshot 2026-05-11 154844" src="https://github.com/user-attachments/assets/95fe07e3-0f7f-4864-b7be-a573bb70176d" />
+
+
 
 ## Key Learnings
 Through this project, I gained exposure to:
