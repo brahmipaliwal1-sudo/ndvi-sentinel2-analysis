@@ -30,7 +30,7 @@ The workflow involved:
 <img width="423" height="392" alt="Screenshot 2026-05-11 154844" src="https://github.com/user-attachments/assets/95fe07e3-0f7f-4864-b7be-a573bb70176d" />
 
 ## Project Report
-View Project Report - Brahmi-Mini Project 1 (1).pdf
+View Project Report - (Brahmi-Mini%20Project%201%20(1).pdf)
 
 ## Key Learnings
 Through this project, I gained exposure to:
